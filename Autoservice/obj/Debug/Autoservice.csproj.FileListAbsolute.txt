@@ -1,0 +1,86 @@
+C:\Users\User\Desktop\11.01\Autoservice\Autoservice\bin\Debug\Autoservice.exe.config
+C:\Users\User\Desktop\11.01\Autoservice\Autoservice\bin\Debug\Autoservice.exe
+C:\Users\User\Desktop\11.01\Autoservice\Autoservice\bin\Debug\Autoservice.pdb
+C:\Users\User\Desktop\11.01\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\11.01\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\11.01\Autoservice\Autoservice\obj\Debug\Autoservice.Properties.Resources.resources
+C:\Users\User\Desktop\11.01\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.GenerateResource.cache
+C:\Users\User\Desktop\11.01\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\11.01\Autoservice\Autoservice\obj\Debug\Autoservice.exe
+C:\Users\User\Desktop\11.01\Autoservice\Autoservice\obj\Debug\Autoservice.pdb
+C:\Users\User\Desktop\11.01\Autoservice\Autoservice\obj\Debug\Autoservice.Autorization.resources
+C:\Users\User\Desktop\11.01\Autoservice\Autoservice\obj\Debug\Autoservice.Personality.resources
+C:\Users\User\Desktop\Резерв\Autoservice\Autoservice\Autoservice\bin\Debug\Autoservice.exe.config
+C:\Users\User\Desktop\Резерв\Autoservice\Autoservice\Autoservice\bin\Debug\Autoservice.exe
+C:\Users\User\Desktop\Резерв\Autoservice\Autoservice\Autoservice\bin\Debug\Autoservice.pdb
+C:\Users\User\Desktop\Резерв\Autoservice\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Резерв\Autoservice\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Резерв\Autoservice\Autoservice\Autoservice\obj\Debug\Autoservice.Autorization.resources
+C:\Users\User\Desktop\Резерв\Autoservice\Autoservice\Autoservice\obj\Debug\Autoservice.Personality.resources
+C:\Users\User\Desktop\Резерв\Autoservice\Autoservice\Autoservice\obj\Debug\Autoservice.Properties.Resources.resources
+C:\Users\User\Desktop\Резерв\Autoservice\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Резерв\Autoservice\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Резерв\Autoservice\Autoservice\Autoservice\obj\Debug\Autoservice.exe
+C:\Users\User\Desktop\Резерв\Autoservice\Autoservice\Autoservice\obj\Debug\Autoservice.pdb
+C:\Users\User\Desktop\Резерв\Autoservice\Autoservice\Autoservice\obj\Debug\Autoservice.Person.resources
+C:\Users\User\Desktop\Курсовая - резервы\12P\Резерв\Autoservice\Autoservice\Autoservice\bin\Debug\Autoservice.exe.config
+C:\Users\User\Desktop\Курсовая - резервы\12P\Резерв\Autoservice\Autoservice\Autoservice\bin\Debug\Autoservice.exe
+C:\Users\User\Desktop\Курсовая - резервы\12P\Резерв\Autoservice\Autoservice\Autoservice\bin\Debug\Autoservice.pdb
+C:\Users\User\Desktop\Курсовая - резервы\12P\Резерв\Autoservice\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Курсовая - резервы\12P\Резерв\Autoservice\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Курсовая - резервы\12P\Резерв\Autoservice\Autoservice\Autoservice\obj\Debug\Autoservice.Autorization.resources
+C:\Users\User\Desktop\Курсовая - резервы\12P\Резерв\Autoservice\Autoservice\Autoservice\obj\Debug\Autoservice.Person.resources
+C:\Users\User\Desktop\Курсовая - резервы\12P\Резерв\Autoservice\Autoservice\Autoservice\obj\Debug\Autoservice.Personality.resources
+C:\Users\User\Desktop\Курсовая - резервы\12P\Резерв\Autoservice\Autoservice\Autoservice\obj\Debug\Autoservice.Properties.Resources.resources
+C:\Users\User\Desktop\Курсовая - резервы\12P\Резерв\Autoservice\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Курсовая - резервы\12P\Резерв\Autoservice\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Курсовая - резервы\12P\Резерв\Autoservice\Autoservice\Autoservice\obj\Debug\Autoservice.exe
+C:\Users\User\Desktop\Курсовая - резервы\12P\Резерв\Autoservice\Autoservice\Autoservice\obj\Debug\Autoservice.pdb
+C:\Users\User\Desktop\Курсовая - резервы\12P\Резерв\Autoservice\Autoservice\Autoservice\obj\Debug\Autoservice.Client.resources
+C:\Users\User\Desktop\Курсовая - резервы\12P\Резерв\Autoservice\Autoservice\Autoservice\obj\Debug\Autoservice.Services.resources
+C:\Users\User\Desktop\Курсач\Autoservice\Autoservice\bin\Debug\Autoservice.exe.config
+C:\Users\User\Desktop\Курсач\Autoservice\Autoservice\bin\Debug\Autoservice.exe
+C:\Users\User\Desktop\Курсач\Autoservice\Autoservice\bin\Debug\Autoservice.pdb
+C:\Users\User\Desktop\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.Autorization.resources
+C:\Users\User\Desktop\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.Client.resources
+C:\Users\User\Desktop\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.Person.resources
+C:\Users\User\Desktop\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.Personality.resources
+C:\Users\User\Desktop\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.Properties.Resources.resources
+C:\Users\User\Desktop\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.Services.resources
+C:\Users\User\Desktop\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.Spares.resources
+C:\Users\User\Desktop\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.exe
+C:\Users\User\Desktop\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.pdb
+C:\Users\User\Desktop\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.Acceptance.resources
+C:\Users\User\Desktop\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.AboutAccept.resources
+C:\Users\User\Desktop\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.AddAccept.resources
+C:\Users\User\Desktop\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.AddClient.resources
+C:\Users\User\Desktop\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.AddPerson.resources
+C:\Users\User\Desktop\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.AddServices.resources
+C:\Users\User\Desktop\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.AddSpares.resources
+C:\Users\User\Desktop\Курсовая работа - материал\Курсач\Autoservice\Autoservice\bin\Debug\Autoservice.exe.config
+C:\Users\User\Desktop\Курсовая работа - материал\Курсач\Autoservice\Autoservice\bin\Debug\Autoservice.exe
+C:\Users\User\Desktop\Курсовая работа - материал\Курсач\Autoservice\Autoservice\bin\Debug\Autoservice.pdb
+C:\Users\User\Desktop\Курсовая работа - материал\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Курсовая работа - материал\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Курсовая работа - материал\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.AboutAccept.resources
+C:\Users\User\Desktop\Курсовая работа - материал\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.Acceptance.resources
+C:\Users\User\Desktop\Курсовая работа - материал\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.AddAccept.resources
+C:\Users\User\Desktop\Курсовая работа - материал\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.AddClient.resources
+C:\Users\User\Desktop\Курсовая работа - материал\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.AddPerson.resources
+C:\Users\User\Desktop\Курсовая работа - материал\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.AddServices.resources
+C:\Users\User\Desktop\Курсовая работа - материал\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.AddSpares.resources
+C:\Users\User\Desktop\Курсовая работа - материал\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.Autorization.resources
+C:\Users\User\Desktop\Курсовая работа - материал\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.Client.resources
+C:\Users\User\Desktop\Курсовая работа - материал\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.Person.resources
+C:\Users\User\Desktop\Курсовая работа - материал\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.Personality.resources
+C:\Users\User\Desktop\Курсовая работа - материал\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.Properties.Resources.resources
+C:\Users\User\Desktop\Курсовая работа - материал\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.Services.resources
+C:\Users\User\Desktop\Курсовая работа - материал\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.Spares.resources
+C:\Users\User\Desktop\Курсовая работа - материал\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Курсовая работа - материал\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Курсовая работа - материал\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.exe
+C:\Users\User\Desktop\Курсовая работа - материал\Курсач\Autoservice\Autoservice\obj\Debug\Autoservice.pdb
